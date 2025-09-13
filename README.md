@@ -1,7 +1,7 @@
 # PowerBI-Portfolio-Project
 Developed an advanced Power BI dashboard and report to provide actionable business insights. Utilized DAX queries for custom metrics and performed sales forecasting. The project showcases skills in data cleaning, dashboard design, and translating complex data into a professional, stakeholder-ready business intelligence solution
 
-✅ **Problem Statement**
+✅ **Problem Statement**:
 Developed an advanced, end-to-end business intelligence solution using Power BI to analyze a large dataset and deliver actionable insights for strategic decision-making and forecasting.
 
 ---
