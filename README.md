@@ -16,11 +16,11 @@ Developed an advanced, end-to-end business intelligence solution using Power BI 
 ---
 
 🔍 **Project Workflow**
-* Data Acquisition & Preparation:** Imported raw data into Power BI and performed comprehensive data cleaning and transformation to ensure data quality and integrity.
-* DAX Querying:** Wrote complex **DAX queries** to create calculated columns and measures, enabling the creation of custom metrics and sophisticated business logic.
-* Advanced Analytics:** Implemented **sales forecasting models** to predict future performance trends, a critical skill for strategic planning and resource allocation.
-* Dashboard Development:** Designed a visually compelling and interactive dashboard from scratch, incorporating a variety of charts and visuals to present key insights.
-* Insight Generation & Reporting:** Developed a professional, shareable report that can be exported as a PDF, enabling seamless communication of data-driven insights to stakeholders.
+* Data Acquisition & Preparation: Imported raw data into Power BI and performed comprehensive data cleaning and transformation to ensure data quality and integrity.
+* DAX Querying: Wrote complex **DAX queries** to create calculated columns and measures, enabling the creation of custom metrics and sophisticated business logic.
+* Advanced Analytics: Implemented **sales forecasting models** to predict future performance trends, a critical skill for strategic planning and resource allocation.
+* Dashboard Development: Designed a visually compelling and interactive dashboard from scratch, incorporating a variety of charts and visuals to present key insights.
+* Insight Generation & Reporting: Developed a professional, shareable report that can be exported as a PDF, enabling seamless communication of data-driven insights to stakeholders.
 
 ---
 
